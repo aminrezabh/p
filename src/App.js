@@ -15,7 +15,7 @@ firebase.initializeApp({
   projectId: "looleh-e7c58",
   storageBucket: "looleh-e7c58.appspot.com",
   messagingSenderId: "439744212457",
-  appId: "1:439744212457:web:3d68f3bf87bf506f5b2f78"
+  appId: "1:439744212457:web:4173c20cf9adf7da5b2f78"
 });
 
 const auth = firebase.auth();
